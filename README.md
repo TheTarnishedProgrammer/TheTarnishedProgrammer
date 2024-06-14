@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheTarnishedProgrammer
+- 👋 Hi, I’m Daryl you can call me Lucy, I much prefer that name:3
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Angular Projects
